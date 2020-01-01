@@ -13,7 +13,7 @@ public class Sequencing{
 
     System.out.println( "Item price is:\t" + price);
     System.out.println( "Sales tax is:\t" + salesTax);
-    System.out.println( "Total cost:\t" + total
+    System.out.println( "Total cost:\t" + total);
      /*This program has been corrected according to the study drills*/
   }
 }
